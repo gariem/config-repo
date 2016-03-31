@@ -1,0 +1,6 @@
+property1:
+  childProperty1: Child Property Message
+
+property2:
+  childProperty2:
+    subChildProperty2: Sub Child Message
